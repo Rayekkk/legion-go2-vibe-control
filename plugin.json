@@ -14,7 +14,7 @@
       "hardware",
       "controller"
     ],
-    "description": "Controller vibration and touchpad haptics from the Steam overlay. Five rumble patterns, per-game profiles.",
-    "image": "https://raw.githubusercontent.com/Rayekkk/LeGo-Vibe-Control/main/docs/store.jpg"
+    "description": "Controller vibration and touchpad haptics from the Steam overlay. Five rumble patterns, per-game profiles. Support has ended because its features are now part of Legion Go 2 Companion; this plugin remains functional but will receive no further updates.",
+    "image": "https://raw.githubusercontent.com/Rayekkk/LeGo-Vibe-Control/main/docs/logo.png"
   }
 }

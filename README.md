@@ -25,6 +25,9 @@ Five rumble patterns, per-game profiles, and a touchpad motor that is set apart 
 
 ---
 
+> [!WARNING]
+> **Support has ended — now part of Legion Go 2 Companion.** LeGoVibeControl remains functional, but it will receive no further updates and this repository is archived as read-only. Its features are now part of [Legion Go 2 Companion](https://github.com/Rayekkk/LegionGo2Companion). On Legion Go 2, we recommend uninstalling LeGoVibeControl and switching to Companion.
+
 ## Features
 
 | | |
